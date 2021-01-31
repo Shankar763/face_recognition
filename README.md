@@ -1,1 +1,1 @@
-# face_recognize
+Face recognition with LBPHF module of openCV python
